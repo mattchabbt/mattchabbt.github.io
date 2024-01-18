@@ -2,7 +2,6 @@ body {
     background-color: lightgray;
     font-family: Helvetica;
     text-align: center;
-    display: flex;
     align-items: center;
     justify-content: center;
     height: 90vh;
@@ -38,11 +37,15 @@ button {
 }
 
 button:hover {
-  font-size: 105%;
+  font-size: 125%;
 }
 
 #idTagline {
   font-family: Verdana;
+}
+
+#idMain {
+  padding-top: 32px;
 }
 
 .btnSimple {

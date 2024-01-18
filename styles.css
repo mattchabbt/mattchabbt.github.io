@@ -41,10 +41,10 @@ button:hover {
   font-size: 105%;
 }
 
-#idParagraphs {
-  
+#idTagline {
+  font-family: Verdana;
 }
 
 .btnSimple {
-  background: rgb(28, 184, 65);
+  background: green;
 }

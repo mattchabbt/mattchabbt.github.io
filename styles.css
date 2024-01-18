@@ -16,6 +16,7 @@ h1 {
 }
 
 h2 {
+  background-color: lightslategray;
   font-size: 48px;
 }
 
@@ -41,7 +42,7 @@ button:hover {
 }
 
 #idParagraphs {
-  background-color: lightslategray;
+  
 }
 
 .btnSimple {

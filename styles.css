@@ -17,6 +17,7 @@ h1 {
 h2 {
   background-color: lightslategray;
   font-size: 48px;
+  margin: 56px 56px 56px 16px;
 }
 
 p {
@@ -45,9 +46,9 @@ button:hover {
 }
 
 #idMain {
-  padding-top: 32px;
+  padding-bottom: 32px;
 }
 
 .btnSimple {
-  background: green;
+  background: rgb(100, 221, 100);
 }
